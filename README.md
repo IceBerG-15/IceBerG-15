@@ -17,7 +17,7 @@ I'm Sidhant Sharma! I'm a student , learning and growing my knowledege in coding
 ![](https://komarev.com/ghpvc/?username=IceBerG-15&style=flat)
 
 <!-- Working GIF -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
+<img src="pic.png" alt="dev_object" align="right" width="500" height="250" />
 
 ### 💼  Things that I'm currently working on: 
 * Learning Web:computer: Development
