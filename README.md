@@ -21,7 +21,7 @@ I'm Sidhant Sharma! I'm a student , learning and growing my knowledege in coding
 
 ### 💼  Things that I'm currently working on: 
 * Learning Web💻: Development
-* Learning Mobile Applicatio📱: Development
+* Learning Mobile Application📱: Development
 * Solving DSA questions on LeetCode💻:
 * Looking forward to learn new things📲: in future.
 * 🔜
