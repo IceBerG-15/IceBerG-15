@@ -8,7 +8,7 @@ I'm Sidhant Sharma! I'm a student , learning and growing my knowledege in coding
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![HackerRank](https://img.shields.io/badge/-IceBerG-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/warmachiness13)
+[![HackerRank](https://img.shields.io/badge/-warmachiness13-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/warmachiness13)
 [![Instagram](https://img.shields.io/badge/-sidhant_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
 [![Gmail](https://img.shields.io/badge/-sidhantsharma1502-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sidhantsharma1502@gmail.com)
 
