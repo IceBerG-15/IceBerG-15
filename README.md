@@ -47,7 +47,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
  <!-- icons -->
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
 <code><a title="Google, CC BY 2.5 &lt;https://creativecommons.org/licenses/by/2.5&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Android_Studio_icon_(2023).svg"><img height="40 alt="Android Studio icon (2023)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/16px-Android_Studio_icon_%282023%29.svg.png"></a></code>
-<code><img height="40" src="https://image.flaticon.com/icons/svg/2306/2306209.svg" alt="XML"></code>
+<code><a title="™/®The World Wide Web Consortium (W3C), Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Extensible_Markup_Language_(XML)_logo.svg"><img height="40" alt="Extensible Markup Language (XML) logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg/64px-Extensible_Markup_Language_%28XML%29_logo.svg.png"></a></code>
 <br>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
