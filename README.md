@@ -31,7 +31,7 @@ Since i am a student,I try to learn as much as i can in my spare time, I decided
 * Solving DSA👨‍💻: 1-2 hours a day with no distraction ( One or two day off a week. ) 
 * Read📰: Dev and UI articles daily 
 * Workout🏋️‍♂️: 6 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment☠️:
+* Avoid spending too much time on Youtube Entertainment☠️
 * Adapting the minimalism life style
 * 🔜
 
