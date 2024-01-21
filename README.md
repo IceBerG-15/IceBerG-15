@@ -9,7 +9,7 @@ I'm Sidhant Sharma! I'm a student , learning and growing my knowledege in coding
 
 <!-- Your badges -->
 [![HackerRank](https://img.shields.io/badge/-warmachiness13-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/warmachiness13)
-[![Instagram](https://img.shields.io/badge/-sidhant_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
+[![Instagram](https://img.shields.io/badge/-sidhant_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_.sidhant._15)
 [![Gmail](https://img.shields.io/badge/-sidhantsharma1502-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sidhantsharma1502@gmail.com)
 
 <!-- Profile View Count -->
