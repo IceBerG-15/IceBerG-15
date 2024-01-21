@@ -8,10 +8,9 @@ I'm Sidhant Sharma! I'm a student , learning and growing my knowledege in coding
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan)
-[![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120)
-[![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sidhantsharma1502@gmail.com)
+[![HackerRank](https://img.shields.io/badge/-IceBerG-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/warmachiness13)
+[![Instagram](https://img.shields.io/badge/-sidhant_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
+[![Gmail](https://img.shields.io/badge/-sidhantsharma1502-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sidhantsharma1502@gmail.com)
 
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=IceBerG-15&style=flat)
@@ -78,5 +77,5 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
 
-:star: From [JoykishanSharma](https://github.com/JoykishanSharma)
+:star: From [Sidhant Sharma](https://github.com/IceBerG-15)
 
