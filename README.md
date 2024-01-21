@@ -20,10 +20,10 @@ I'm Sidhant Sharma! I'm a student , learning and growing my knowledege in coding
 <img src="pic.png" alt="dev_object" align="right" width="500" height="250" />
 
 ### 💼  Things that I'm currently working on: 
-* Learning Web:computer: Development
-* Learning Mobile Applicatio:phone: Development
-* Solving DSA questions on LeetCode:computer:
-* Looking forward to learn new things:calling: in future.
+* Learning Web💻: Development
+* Learning Mobile Applicatio📱: Development
+* Solving DSA questions on LeetCode💻:
+* Looking forward to learn new things📲: in future.
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
