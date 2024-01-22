@@ -3,7 +3,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Sidhant Sharma! I'm a student , learning and growing my knowledege in coding. I'm passionate learning new things, creating software:computer: and tools to help people.
+I'm Sidhant Sharma! I'm a student , learning and growing my knowledege in coding. I'm passionate learning new things, creating software 🖥️ : and tools to help people.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
