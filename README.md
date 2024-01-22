@@ -15,8 +15,6 @@ I'm Sidhant Sharma! I'm a student , learning and growing my knowledege in coding
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=IceBerG-15&style=flat)
 
-<!-- Working GIF -->
-<img src="pic.png" alt="dev_object" align="right" width="500" height="250" />
 
 ### 💼  Things that I'm currently working on: 
 * Learning Web💻: Development
