@@ -15,7 +15,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.sidhant._15/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sidhant-sharma-7a7b8a220/) [![HackerRank](https://img.shields.io/badge/-warmachiness13-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/warmachiness13)
-[![Instagram](https://img.shields.io/badge/-sidhant_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_.sidhant._15)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/IceBerG1502/)
 [![Gmail](https://img.shields.io/badge/-sidhantsharma1502-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sidhantsharma1502@gmail.com)
 
 # 💻 Tech Stack:
