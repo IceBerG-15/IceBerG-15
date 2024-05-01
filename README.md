@@ -1,66 +1,41 @@
 
 <!-- Greeting -->
 # Hey there! :wave::smiley:
+ 
+# 💫 About Me:
+💼  Things that I'm currently working on: 
+<br>* Learning Web💻 Development
+<br>* Learning Mobile Application📱 Development
+<br>* Solving DSA questions on LeetCode💻
+<br>* Looking forward to learn new thing🤓 in future.
+<br><br>
+# 🌱 Challenges that I’m currently challenging myself:
+<br>Since i am a student, I try to learn as much as i can in my spare time, I decided to take this time focusing on feeding more knowledge 📚 to myself. I set a couple of self-challenges in order to push myself more further.:<br><br>* Solving DSA👨‍💻: 1-2 hours a day with no distraction ( One or two day off a week. ) <br>* Read📰: Dev and UI articles daily <br>* Workout🏋️‍♂️: 6 days in a row and take a day break <br>* Avoid spending too much time on YouTube and Instagram Entertainment☠️<br>* Adapting the minimalism life style
 
-<!--Introduction -->
-I'm Sidhant Sharma! I'm a student , learning and growing my knowledege in coding. I'm passionate learning new things, creating software 🖥️ : and tools to help people.
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-<!-- Your badges -->
-[![HackerRank](https://img.shields.io/badge/-warmachiness13-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/warmachiness13)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.sidhant._15/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sidhant-sharma-7a7b8a220/) [![HackerRank](https://img.shields.io/badge/-warmachiness13-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/warmachiness13)
 [![Instagram](https://img.shields.io/badge/-sidhant_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_.sidhant._15)
 [![Gmail](https://img.shields.io/badge/-sidhantsharma1502-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sidhantsharma1502@gmail.com)
 
-<!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=IceBerG-15&style=flat)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IceBerG-15&theme=dark&hide_border=false&include_all_commits=false&count_private=true) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=IceBerG-15&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IceBerG-15&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=IceBerG-15&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-### 💼  Things that I'm currently working on: 
-* Learning Web💻: Development
-* Learning Mobile Application📱: Development
-* Solving DSA questions on LeetCode💻:
-* Looking forward to learn new thing🤓: in future.
-* 🔜
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IceBerG-15&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🌱 Challenges that I’m currently challenging myself:
-Since i am a student,I try to learn as much as i can in my spare time, I decided to take this time focusing on feeding more knowledge 📚 to myself. I set a couple of self-challenges in order to push myself more further.:
-
-* Solving DSA👨‍💻: 1-2 hours a day with no distraction ( One or two day off a week. ) 
-* Read📰: Dev and UI articles daily 
-* Workout🏋️‍♂️: 6 days in a row and take a day break 
-* Avoid spending too much time on Youtube and Instagram Entertainment☠️
-* Adapting the minimalism life style
-* 🔜
-
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/IceBerG-15?tab=repositories">
-    <img width="500" height="auto" align="right" alt="IceBerG's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=IceBerG-15&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
- <!-- icons -->
-<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
-<code><a title="Google, CC BY 2.5 &lt;https://creativecommons.org/licenses/by/2.5&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Android_Studio_icon_(2023).svg"><img height="40 alt="Android Studio icon (2023)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/16px-Android_Studio_icon_%282023%29.svg.png"></a></code>
-<code><a title="™/®The World Wide Web Consortium (W3C), Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Extensible_Markup_Language_(XML)_logo.svg"><img height="40" alt="Extensible Markup Language (XML) logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg/64px-Extensible_Markup_Language_%28XML%29_logo.svg.png"></a></code>
-<br>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<br>
-<code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
-<code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
-<br>
-<code><a title="alaa kaddour, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sql_data_base_with_logo.svg"><img height="40 alt="Sql data base with logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/512px-Sql_data_base_with_logo.svg.png"></a></code>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
 
 :star: From [Sidhant Sharma](https://github.com/IceBerG-15)
+
 
