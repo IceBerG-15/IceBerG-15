@@ -3,7 +3,7 @@
 # Hey there! :wave::smiley:
  
 # 💫 About Me:
-Dynamic programmer skilled in Python, Java, Flask, and Selenium. Currently pursuing MCA with a focus on
+Programmer skilled in Python, Java, Flask, and Selenium. Currently pursuing MCA with a focus on
 web development and database management. Committed to delivering high-quality solutions and eager to
 contribute to innovative projects, while developing expertise in full-stack development and UI/UX design.
 <br>
