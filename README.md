@@ -10,13 +10,16 @@ contribute to innovative projects, while developing expertise in full-stack deve
 <br>
 
 ## 💼  Things that I'm currently working on: 
-* Learning Web💻 Development
-* Learning Mobile Application📱 Development
+* Learning Web💻 Development using Python.
 * Solving DSA questions on LeetCode💻
-* Looking forward to learn new thing🤓 in future.
 <br><br>
 ## 🌱 Challenges that I’m currently challenging myself:
-Since i am a student, I try to learn as much as i can in my spare time, I decided to take this time focusing on feeding more knowledge 📚 to myself. I set a couple of self-challenges in order to push myself more further.:<br><br>* Solving DSA👨‍💻: 1-2 hours a day with no distraction ( One or two day off a week. ) <br>* Read📰: Dev and UI articles daily <br>* Workout🏋️‍♂️: 6 days in a row and take a day break <br>* Avoid spending too much time on YouTube and Instagram Entertainment☠️<br>* Adapting the minimalism life style
+Since i am a student, I try to learn as much as i can in my spare time, I decided to take this time focusing on feeding more knowledge 📚 to myself. I set a couple of self-challenges in order to push myself more further.:
+<br><br>
+* Solving DSA👨‍💻: 1-2 hours a day with no distraction ( One or two day off a week. ) <br>
+* Workout🏋️‍♂️: 6 days in a row and take a day break <br>
+* Avoid spending too much time on YouTube and Instagram Entertainment☠️<br>
+* Adapting the minimalism life style
 
 
 ## 🌐 Socials:
