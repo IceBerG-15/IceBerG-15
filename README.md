@@ -6,12 +6,11 @@
 Programmer skilled in Python, Java, Flask, and Selenium. Currently pursuing MCA with a focus on
 web development and database management. Committed to delivering high-quality solutions and eager to
 contribute to innovative projects, while developing expertise in full-stack development and UI/UX design.
-<br>
 
 ## 💼  Things that I'm currently working on: 
 * Learning Web💻 Development using Python.
 * Solving DSA questions on LeetCode💻
-<br>
+
 ## 🌱 Challenges that I’m currently challenging myself:
 * Solving DSA👨‍💻: 1-2 hours a day with no distraction. <br>
 * Workout🏋️‍♂️: 6 days in a row and take a day break <br>
