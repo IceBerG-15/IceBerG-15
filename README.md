@@ -12,7 +12,6 @@ contribute to innovative projects, while developing expertise in full-stack deve
 * Learning Web💻 Development using Python.
 * Solving DSA questions on LeetCode💻
 <br>
-
 ## 🌱 Challenges that I’m currently challenging myself:
 * Solving DSA👨‍💻: 1-2 hours a day with no distraction. <br>
 * Workout🏋️‍♂️: 6 days in a row and take a day break <br>
