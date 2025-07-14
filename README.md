@@ -31,88 +31,74 @@ At my current internship, I’m working on real-world cloud and infrastructure p
 
 
 # 💻 Tech Stack:
-## ☁️ Cloud & Hosting
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" /></td>
+    <th>☁️ Cloud & Hosting</th>
+    <th>🖥️ Programming Languages</th>
+    <th>🎨 Web & UI Frameworks</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" /><br>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>🧩 Backend & APIs</th>
+    <th>🗄️ Databases</th>
+    <th>⚙️ DevOps & Tools</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi" /><br>
+      <img src="https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>📊 Data Science & ML</th>
+    <th>🧰 Productivity</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white" />
+    </td>
+    <td></td>
   </tr>
 </table>
 
-## 🖥️ Programming Languages
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" /></td>
-    <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" /></td>
-  </tr>
-</table>
-
-## 🎨 Web & UI Frameworks
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" /></td>
-  </tr>
-</table>
-
-## 🧩 Backend & APIs
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi" /></td>
-    <td><img src="https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black" /></td>
-  </tr>
-</table>
-
-## 🗄️ Databases
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" /></td>
-  </tr>
-</table>
-
-## ⚙️ DevOps & Tools
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" /></td>
-  </tr>
-</table>
-
-## 📊 Data Science & ML
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" /></td>
-  </tr>
-</table>
-
-## 🧰 Utilities & Productivity
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white" /></td>
-  </tr>
-</table>
 
 
 # 📊 GitHub Stats:
