@@ -6,13 +6,16 @@
 A passionate developer with hands-on experience in DevOps, Cloud Infrastructure, and Web Development. Currently pursuing an MCA, I’m committed to learning and building scalable, automated solutions. With a strong foundation in Python, Java, and system automation tools.
 
 ## 🚀 Current Role – DevOps Intern
+
 At my current internship, I’m working on real-world cloud and infrastructure projects:
-⚙️ Creating and managing Jenkins pipelines and jobs
-☁️ Exploring and analyzing GCP cloud service costs
-🔧 Working with CI/CD automation, infrastructure upgrades, and scripting
-🛠️ Studying and understanding BlueStacks' cloud infrastructure
-👥 Collaborating with mentors to optimize system processes and alerts
-📚 Continuously upgrading my knowledge with hands-on project work and online courses
+
+- ⚙️ Creating and managing **Jenkins pipelines and jobs**
+- ☁️ Exploring and analyzing **GCP cloud service costs**
+- 🔧 Working with **CI/CD automation**, infrastructure upgrades, and scripting
+- 🛠️ Studying and understanding **BlueStacks' cloud infrastructure**
+- 👥 Collaborating with mentors to **optimize system processes and alerts**
+- 📚 Continuously upgrading my knowledge with **hands-on project work and online courses**
+
 
 ## 🌱 Challenges that I’m currently challenging myself:
 * Solving DSA👨‍💻: 1-2 hours a day with no distraction. <br>
